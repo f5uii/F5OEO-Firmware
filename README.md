@@ -1,4 +1,4 @@
-# F5OEO Firmware
+# F5OEO PlutoDVB DATV Firmware
 
 I believe this list is complete.
 
